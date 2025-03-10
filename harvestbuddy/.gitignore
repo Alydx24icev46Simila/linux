@@ -6,3 +6,11 @@ mobile_app/ios/
 data/user_garden_data_encrypted/
 models/
 uploaded_images_temp/
+node_modules/
+__pycache__/
+*.env
+mobile_app/android/
+mobile_app/ios/
+data/user_garden_data_encrypted/
+models/
+uploaded_images_temp/
